@@ -10,7 +10,6 @@ on:
     - cron: '30 * * * *'
 
 jobs:
-  # Test the image builds and works correctly.
   test:
     name: Test
     runs-on: ubuntu-latest
