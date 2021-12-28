@@ -1,4 +1,4 @@
-FROM fedora:34
+FROM buluma/fedora:34
 LABEL maintainer="Michael Buluma"
 ENV container=docker
 
